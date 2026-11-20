@@ -1,0 +1,6 @@
+{
+  "name": "The World of Sahithi",
+  "description": "Interactive 3D scroll-driven explorer portfolio of Munaga Sahithi across six realms of education, AI/ML skills, software projects, achievements, and future ambitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
